@@ -13,9 +13,9 @@ Page in build
 You can contact me here:
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/bartoszbednarczyk/" alt="Linkedin"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/linkedin.svg"></a>  
- <a href="mailto:bfbednarczyk@gmail.com" alt="Mail me"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/email.svg"></a>  
- <a href="https://bednarczykbartosz.pl/" alt="My site"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/web.svg"></a>
+<a href="https://www.linkedin.com/in/bartoszbednarczyk/" target="_blank" alt="Linkedin"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/linkedin.svg"></a>  
+ <a href="mailto:bfbednarczyk@gmail.com" target="_blank" alt="Mail me"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/email.svg"></a>  
+ <a href="https://bednarczykbartosz.pl/" target="_blank" alt="My site"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/web.svg"></a>
 </p>
 
 <img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Footer.png?raw=true" alt="Footer" />
