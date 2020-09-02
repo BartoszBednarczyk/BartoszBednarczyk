@@ -1,10 +1,12 @@
 <img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Header.png?raw=true" alt="Header"/>
 
 <p align="center"><i>Apllied Computer Science student at Cracow University of Technology</i></p>
-<hr />
+<br /><br /><br />
  
- 
-- 🌱 I’m currently learning **React**
+<p align="center">
+Page in build
+</p>
+<br /><br /><br />
 
 
 <p align="center">
