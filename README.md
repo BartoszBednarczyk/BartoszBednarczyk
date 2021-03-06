@@ -8,10 +8,6 @@ Page in build
 </p>
 <br /><br /><br />
 
-<div style="display: flex; flex-direction: row">
- <div>Test1</div>
- <div>Test2</div>
- </div>
 
 <p align="center">
 You can contact me here:
