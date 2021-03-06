@@ -8,7 +8,7 @@ Page in build
 </p>
 <br /><br /><br />
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"/>
 <p align="center">
 You can contact me here:
 </p>
