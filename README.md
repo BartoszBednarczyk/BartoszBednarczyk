@@ -1,7 +1,5 @@
 <img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Header.png?raw=true" alt="Header"/>
 <img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Gif.png?raw=true" alt="Profile picture"/>
-![Image of Yaktocat](https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Header.png?raw=true)
-![Image of Yaktocat](https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Gif.png?raw=true)
 <br />
 <p align="center"><i>Apllied Computer Science student at Cracow University of Technology</i></p>
 <br /><br /><br />
