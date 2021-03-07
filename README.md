@@ -10,6 +10,17 @@ Page in build
 </p>
 <br /><br /><br />
 
+ <h2 align="center">Technologies and tools</h1>
+ <p align="center">
+ <img alt="HTML5" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/html.png?raw=true" />
+ <img alt="CSS" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/css.png?raw=true" />
+ <img alt="Sass" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/sass.png?raw=true" />
+ <img alt="Javascript" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/javascript.png?raw=true" />
+ <img alt="React" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/react.png?raw=true" />
+ <img alt="Git" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/git.png?raw=true" />
+ </p>
+ <br />
+
 <p align="center">
 You can contact me here:
 </p>
