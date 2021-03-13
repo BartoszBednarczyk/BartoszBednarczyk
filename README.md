@@ -2,13 +2,16 @@
  <div><img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Header.png?raw=true" alt="Header"/></div>
 </div>
 <br />
-<p align="center"><i>Apllied Computer Science student at Cracow University of Technology</i></p>
 <br /><br /><br />
+ 
+<img align=right width=350px height=450px src="/Me.svg" />
+
  
 <p align="center">
 Page in build
 </p>
 <br /><br /><br />
+
 
  <h2 align="center">Technologies and tools</h1>
  <p align="center">
