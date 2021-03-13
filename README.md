@@ -8,7 +8,10 @@
 
  
 <p align="center">
-Page in build
+I'm third year Computer Science student at the Cracow University of Technology.
+Passionate about new technologies and also board games (kind of nerd).
+Already experienced in e-commerce managing as well as in creating websites, graphic designing and photo processing.
+Currently I'm learning React.
 </p>
 <br /><br /><br />
 
