@@ -2,7 +2,7 @@
  <div><img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Header.png?raw=true" alt="Header"/></div>
 </div>
 <br />
-<br /><br /><br />
+<br />
  
 <img align=right width=350px height=450px src="/Me.svg" />
 
@@ -13,9 +13,7 @@ Passionate about new technologies and also board games (kind of nerd).
 Already experienced in e-commerce managing as well as in creating websites, graphic designing and photo processing.
 Currently I'm learning React.
 </p>
-<br /><br /><br />
-
-
+<br />
  <h2 align="center">Technologies and tools</h1>
  <p align="center">
  <img alt="HTML5" width="40px" src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Technologies/html.png?raw=true" />
