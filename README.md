@@ -12,6 +12,7 @@ I'm third year Computer Science student at the Cracow University of Technology.
 Passionate about new technologies and also board games (kind of nerd).
 Already experienced in e-commerce managing as well as in creating websites, graphic designing and photo processing.
 Currently I'm learning React.
+I'm looking for IT internship offers, feel free to contact me anytime! 
 </p>
 <br />
  <h2 align="center">Technologies and tools</h1>
