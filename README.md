@@ -4,7 +4,7 @@
 <br />
 <br />
  
-<img align=right width=350px height=450px src="/Me.svg" />
+
 
  
 <p align="center">
@@ -34,5 +34,5 @@ You can contact me here:
  <a href="mailto:bednarczykbartosz@outlook.com" target="_blank" alt="Mail me"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/email.svg"></a>  
  <a href="https://bednarczykbartosz.pl/" target="_blank" alt="My site"><img src="https://raw.githubusercontent.com/BartoszBednarczyk/BartoszBednarczyk/bc0d5d8933db1ea22208a6ff308a8027693f353a/web.svg"></a>
 </p>
-
+<img align=right width=350px height=450px src="/Me.svg" />
 <img src="https://github.com/BartoszBednarczyk/BartoszBednarczyk/blob/master/Footer.png?raw=true" alt="Footer" />
